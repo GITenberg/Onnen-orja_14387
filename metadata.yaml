@@ -1,0 +1,36 @@
+_repo: Onnen-orja_14387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leino, Eino
+    aliases:
+    - Sepeteus, Kanttori
+    - Vilkastus, Mikko
+    - Lonnbohm, Armas Eino Leopold
+    - Leino, Armas Eino Leopold
+    - Lönnbohm, Armas Einar Leopold
+    - Lönnbohm, Armas Eino Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Leino
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+description: ''
+gutenberg_issued: '2004-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14387'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: Onnen orja
+url: http://www.gutenberg.org/ebooks/14387
